@@ -1,1 +1,20 @@
-<img width="2029" height="2268" alt="image" src="https://github.com/user-attachments/assets/a872821b-e5fc-42a4-8d43-72fcadcd9201" />
+Project Nina
+An experiment in intent-based networking.
+
+People are looking for people.
+
+Project Nina explores a new way of networking based on intent rather than profiles.
+
+What is Intent?
+Examples:
+
+Looking for a CCNP study partner
+Looking for a mentor
+Looking for a project teammate
+Looking for a co-founder
+Current Focus
+Network Engineers
+Datacenter Professionals
+Cloud Engineers
+Question
+Who are you looking for right now?
